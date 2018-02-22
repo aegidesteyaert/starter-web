@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Adding text
+This repository is for showing how Git and GitHub work. Adding text, then more changes from myffeature branch
 
 ## How to contribute
 Please fork this repository and issue a pull request.
