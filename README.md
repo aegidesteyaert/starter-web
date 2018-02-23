@@ -9,4 +9,4 @@ Please fork this repository and issue a pull request.
 
 Sample website with plenty of files for demos
 
-2018 Copyright
+2018 Copyright All Rights reserved
