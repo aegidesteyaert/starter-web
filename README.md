@@ -9,6 +9,6 @@ Please fork this repository and issue a pull request.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Added some text.
 
 2018 Copyright All Rights reserved
